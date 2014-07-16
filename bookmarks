@@ -1,0 +1,50 @@
+;;;; Emacs Bookmark Format Version 1 ;;;;
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+(("get_status"
+ (filename . "~/slideshare-src/slideshare/app/models/slideshow.rb")
+ (front-context-string . "', self.]\n    wh")
+ (rear-context-string . "deshow_converted")
+ (position . 119267))
+("internal_post_publish_info"
+ (filename . "~/slideshare-src/slideshare/app/controllers/uploads_controller.rb")
+ (front-context-string . "  def internal_p")
+ (rear-context-string . " end\n\n  private\n")
+ (position . 21837))
+("get_publish_status"
+ (filename . "~/slideshare-src/slideshare/app/controllers/uploads_controller.rb")
+ (front-context-string . "\n    user = sess")
+ (rear-context-string . "tatus_for_upload")
+ (position . 20882))
+("parse_upload_slideshow_detail"
+ (filename . "~/slideshare-src/slideshare/app/controllers/uploads_controller.rb")
+ (front-context-string . "  def parse_uplo")
+ (rear-context-string . "se parsing fail\n")
+ (position . 32145))
+("internal_update_show_on_ss"
+ (filename . "~/slideshare-src/slideshare/app/controllers/uploads_controller.rb")
+ (front-context-string . "  def internal_u")
+ (rear-context-string . "ction succeeded\n")
+ (position . 13047))
+("publish_slideshow"
+ (filename . "~/slideshare-src/slideshare/app/controllers/uploads_controller.rb")
+ (front-context-string . "  def publish_sl")
+ (rear-context-string . "on_ss values\n  \n")
+ (position . 24904))
+("pqr"
+ (filename . "~/slideshare-src/slideshare/app/controllers/uploads_controller.rb")
+ (front-context-string . "  def internal_u")
+ (rear-context-string . " +PreSlideshow+\n")
+ (position . 12324))
+("xyz"
+ (filename . "~/slideshare-src/slideshare/app/controllers/uploads_controller.rb")
+ (front-context-string . "  def internal_u")
+ (rear-context-string . "ction succeeded\n")
+ (position . 13047))
+("uploads_controller.rb"
+ (filename . "~/slideshare-src/slideshare/app/controllers/uploads_controller.rb")
+ (front-context-string . "  def internal_u")
+ (rear-context-string . " +PreSlideshow+\n")
+ (position . 12324))
+)

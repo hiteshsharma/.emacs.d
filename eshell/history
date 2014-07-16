@@ -1,0 +1,16 @@
+pwd
+ls
+ssh ops-sng
+exit
+cd ~/Workspace/slideshare/slidesharegitsvn/
+cd ../../Bijli/
+vagrant ssh ssubuntu
+cd ~/Workspace/slideshare/slidesharegitsvn/
+bundle exec rails c
+bundle exec rails c
+rails c
+vagrant ssh ssubuntu
+cd ../../
+cd Bijli/
+vagrant ssh ssubuntu
+ssh-keygen -y -f id_rsa
